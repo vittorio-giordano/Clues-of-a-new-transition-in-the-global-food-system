@@ -1,0 +1,197 @@
+﻿Country name;Name natural earth;Name 2;FAO_code;ISO3;Region;Continent;region code-waste;Income_Group
+Afghanistan;Afghanistan;Afghanistan;2;AFG;SAS;AS;6;Low income
+Albania;Albania;Albania;3;ALB;SEU;EU;1;Upper middle income
+Algeria;Algeria;Algeria;4;DZA;NAF;AF;5;Upper middle income
+Angola;Angola;Angola;7;AGO;MAF;AF;4;Lower middle income
+Antigua and Barbuda;NaN;Antigua and Barbuda;8;ATG;CRB;AM;7;High income
+Argentina;Argentina;Argentina;9;ARG;SAM;AM;7;Upper middle income
+Armenia;Armenia;Armenia;1;ARM;WAS;AS;1;Upper middle income
+Australia;Australia;Australia;10;AUS;OCE;OC;2;High income
+Austria;Austria;Austria;11;AUT;WEU;EU;1;High income
+Azerbaijan;Azerbaijan;Azerbaijan;52;AZE;WAS;AS;1;Upper middle income
+Bahamas;Bahamas;Bahamas;12;BHS;CRB;AM;7;High income
+Bahrain;NaN;Bahrain;13;BHR;WAS;AS;7;High income
+Bangladesh;Bangladesh;Bangladesh;16;BGD;SAS;AS;6;Lower middle income
+Barbados;NaN;Barbados;14;BRB;CRB;AM;7;High income
+Belarus;Belarus;Belarus;57;BLR;EEU;EU;1;Upper middle income
+Belgium;Belgium;Belgium;255;BEL;WEU;EU;1;High income
+Belgium-Luxembourg;NaN;Belgium-Luxembourg;15;;NaN;NaN;1;NA
+Belize;Belize;Belize;23;BLZ;CAM;AM;7;Upper middle income
+Benin;Benin;Benin;53;BEN;WAF;AF;4;Lower middle income
+Bhutan;Bhutan;Bhutan;18;BTN;SAS;AS;6;Lower middle income
+Bermuda;NaN;Bermuda;17;BMU;NaN;NAN;7;High income
+Bolivia (Plurinational State of);Bolivia;Bolivia, Plurinational State of;19;BOL;SAM;AM;7;Lower middle income
+Bosnia and Herzegovina;Bosnia and Herzegovina;Bosnia and Herzegovina;80;BIH;SEU;EU;1;Upper middle income
+Botswana;Botswana;Botswana;20;BWA;SAF;AF;4;Upper middle income
+Brazil;Brazil;Brazil;21;BRA;SAM;AM;7;Upper middle income
+Brunei Darussalam;Brunei Darussalam;Brunei Darussalam;26;BRN;NaN;NaN;6;High income
+Bulgaria;Bulgaria;Bulgaria;27;BGR;EEU;EU;1;High income
+Burkina Faso;Burkina Faso;Burkina Faso;233;BFA;WAF;AF;4;Low income
+Burundi;Burundi;Burundi;29;BDI;EAF;AF;4;Low income
+Cabo Verde;NaN;Cape Verde;35;CPV;WAF;AF;4;Lower middle income
+Cambodia;Cambodia;Cambodia;115;KHM;SAS;AS;6;Lower middle income
+Cameroon;Cameroon;Cameroon;32;CMR;MAF;AF;4;Lower middle income
+Canada;Canada;Canada;33;CAN;NAM;AM;2;High income
+Central African Republic;Central African Republic;Central African Republic;37;CAF;MAF;AF;4;Low income
+Chad;Chad;Chad;39;TCD;MAF;AF;4;Low income
+Chile;Chile;Chile;40;CHL;SAM;AM;7;High income
+China, Hong Kong SAR;NaN;China, Hong Kong SAR;96;HKG;EAS;AS;3;High income
+China, Macao SAR;NaN;China, Macao SAR;128;MAC;EAS;AS;3;High income
+China, mainland;China;China, Mainland;41;CHN;EAS;AS;3;Upper middle income
+China, Taiwan Province of;NaN;China, Taiwan Province of;214;TWN;EAS;AS;3;High income
+Colombia;Colombia;Colombia;44;COL;SAM;AM;7;Upper middle income
+Comoros;NaN;Comoros;45;COM;EAF;AF;4;Lower middle income
+Congo;Republic of the Congo;Congo;46;COG;MAF;AF;4;Lower middle income
+Costa Rica;Costa Rica;Costa Rica;48;CRI;CAM;AM;7;Upper middle income
+Côte d'Ivoire;Côte d'Ivoire;Côte d'Ivoire;107;CIV;WAF;AF;4;Lower middle income
+Croatia;Croatia;Croatia;98;HRV;SEU;EU;1;High income
+Cuba;Cuba;Cuba;49;CUB;CRB;AM;7;Upper middle income
+Cyprus;Cyprus;Cyprus;50;CYP;WAS;AS;1;High income
+Czechia;Czech Republic;Czech Republic;167;CZE;EEU;EU;1;High income
+Czechoslovakia;NaN;Czechoslovakia;51;NaN;NaN;NaN;1;NA
+Democratic People's Republic of Korea;Republic of Korea;Korea, Democratic Peoples Republic of;116;PRK;EAS;AS;3;Low income
+Democratic Republic of the Congo;Democratic Republic of the Congo;Congo, Democratic Republic of the;250;COD;MAF;AF;4;Low income
+Denmark;Denmark;Denmark;54;DNK;NEU;EU;1;High income
+Djibouti;Djibouti;Djibouti;72;DJI;EAF;AF;4;Lower middle income
+Dominica;NaN;Dominica;55;DMA;CRB;AM;7;Upper middle income
+Dominican Republic;Dominican Republic;Dominican Republic;56;DOM;CRB;AM;7;Upper middle income
+Ecuador;Ecuador;Ecuador;58;ECU;SAM;AM;7;Upper middle income
+Egypt;Egypt;Egypt;59;EGY;NAF;AF;5;Lower middle income
+El Salvador;El Salvador;El Salvador;60;SLV;CAM;AM;7;Upper middle income
+Estonia;Estonia;Estonia;63;EST;NEU;EU;1;High income
+Eswatini;Kingdom of eSwatini;Swaziland (Eswatini);209;SWZ;SAF;AF;4;Lower middle income
+Ethiopia;Ethiopia;Ethiopia;238;ETH;EAF;AF;4;Low income
+Ethiopia PDR;NaN;Ethiopia PDR;62;NaN;NaN;NaN;4;NA
+Fiji;Fiji;Fiji;66;FJI;OCE;OC;2;Upper middle income
+Finland;Finland;Finland;67;FIN;NEU;EU;1;High income
+France;France;France;68;FRA;WEU;EU;1;High income
+French Polynesia;NaN;French Polynesia;70;PYF;OCE;OC;2;High income
+Gabon;Gabon;Gabon;74;GAB;MAF;AF;4;Upper middle income
+Gambia;The Gambia;Gambia;75;GMB;WAF;AF;4;Low income
+Georgia;Georgia;Georgia;73;GEO;WAS;AS;1;Upper middle income
+Germany;Germany;Germany;79;DEU;WEU;EU;1;High income
+Ghana;Ghana;Ghana;81;GHA;WAF;AF;4;Lower middle income
+Greece;Greece;Greece;84;GRC;SEU;EU;1;High income
+Grenada;NaN;Grenada;86;GRD;CRB;AM;7;Upper middle income
+Guatemala;Guatemala;Guatemala;89;GTM;CAM;AM;7;Upper middle income
+Guinea;Guinea;Guinea;90;GIN;WAF;AF;4;Lower middle income
+Guinea-Bissau;Guinea-Bissau;Guinea-Bissau;175;GNB;WAF;AF;4;Low income
+Guyana;Guyana;Guyana;91;GUY;SAM;AM;7;High income
+Haiti;Haiti;Haiti;93;HTI;CRB;AM;7;Lower middle income
+Honduras;Honduras;Honduras;95;HND;CAM;AM;7;Lower middle income
+Hungary;Hungary;Hungary;97;HUN;EEU;EU;1;High income
+Iceland;Iceland;Iceland;99;ISL;NEU;EU;1;High income
+India;India;India;100;IND;SAS;AS;6;Lower middle income
+Indonesia;Indonesia;Indonesia;101;IDN;SAS;AS;6;Upper middle income
+Iran (Islamic Republic of);Iran;Iran, Islamic Republic of;102;IRN;SAS;AS;6;Upper middle income
+Iraq;Iraq;Iraq;103;IRQ;WAS;AS;5;Upper middle income
+Ireland;Ireland;Ireland;104;IRL;NEU;EU;1;High income
+Israel;Israel;Israel;105;ISR;WAS;AS;5;High income
+Italy;Italy;Italy;106;ITA;SEU;EU;1;High income
+Jamaica;Jamaica;Jamaica;109;JAM;CRB;AM;7;Upper middle income
+Japan;Japan;Japan;110;JPN;EAS;AS;3;High income
+Jordan;Jordan;Jordan;112;JOR;WAS;AS;5;Lower middle income
+Kazakhstan;Kazakhstan;Kazakhstan;108;KAZ;CAS;AS;5;Upper middle income
+Kenya;Kenya;Kenya;114;KEN;EAF;AF;4;Lower middle income
+Kiribati;NaN;Kiribati;83;KIR;OCE;OC;2;Lower middle income
+Kuwait;Kuwait;Kuwait;118;KWT;WAS;AS;5;High income
+Kyrgyzstan;Kyrgyzstan;Kyrgyzstan;113;KGZ;CAS;AS;5;Lower middle income
+Lao People's Democratic Republic;Lao PDR;Lao Peoples Democratic Republic;120;LAO;SAS;AS;6;Lower middle income
+Latvia;Latvia;Latvia;119;LVA;NEU;EU;1;High income
+Lebanon;Lebanon;Lebanon;121;LBN;WAS;AS;5;Lower middle income
+Lesotho;Lesotho;Lesotho;122;LSO;SAF;AF;4;Lower middle income
+Liberia;Liberia;Liberia;123;LBR;WAF;AF;4;Low income
+Libya;Libya;Libya;124;LBY;NAF;AF;5;Upper middle income
+Lithuania;Lithuania;Lithuania;126;LTU;NEU;EU;1;High income
+Luxembourg;Luxembourg;Luxembourg;256;LUX;WEU;EU;1;High income
+Madagascar;Madagascar;Madagascar;129;MDG;EAF;AF;4;Low income
+Malawi;Malawi;Malawi;130;MWI;EAF;AF;4;Low income
+Malaysia;Malaysia;Malaysia;131;MYS;SAS;AS;6;Upper middle income
+Maldives;NaN;Maldives;132;MDV;SAS;AS;6;Upper middle income
+Mali;Mali;Mali;133;MLI;WAF;AF;4;Low income
+Malta;NaN;Malta;134;MLT;SEU;EU;1;High income
+Mauritania;Mauritania;Mauritania;136;MRT;WAF;AF;4;Lower middle income
+Mauritius;NaN;Mauritius;137;MUS;EAF;AF;6;Upper middle income
+Mexico;Mexico;Mexico;138;MEX;CAM;AM;7;Upper middle income
+Micronesia (Federated States of);NaN;Micronesia, Federated States of;145;FSM;OCE;OC;2;Lower middle income
+Mongolia;Mongolia;Mongolia;141;MNG;EAS;AS;5;Upper middle income
+Montenegro;Montenegro;Montenegro;273;MNE;SEU;EU;1;Upper middle income
+Morocco;Morocco;Morocco;143;MAR;NAF;AF;5;Lower middle income
+Mozambique;Mozambique;Mozambique;144;MOZ;EAF;AF;4;Low income
+Myanmar;Myanmar;Myanmar;28;MMR;SAS;AS;6;Lower middle income
+Namibia;Namibia;Namibia;147;NAM;SAF;AF;4;Upper middle income
+Nauru;NaN;Nauru;148;NRU;OCE;OC;2;High income
+Nepal;Nepal;Nepal;149;NPL;SAS;AS;6;Lower middle income
+Netherlands (Kingdom of the);Netherlands;Netherlands;150;NLD;WEU;EU;1;High income
+Netherlands Antilles (former);NaN;Netherlands Antilles;151;NaN;NaN;NaN;1;NA
+New Caledonia;New Caledonia;New Caledonia;153;NCL;OCE;OC;2;High income
+New Zealand;New Zealand;New Zealand;156;NZL;OCE;OC;2;High income
+Nicaragua;Nicaragua;Nicaragua;157;NIC;CAM;AM;7;Lower middle income
+Niger;Niger;Niger;158;NER;WAF;AF;4;Low income
+Nigeria;Nigeria;Nigeria;159;NGA;WAF;AF;4;Lower middle income
+North Macedonia;North Macedonia;Macedonia, the former Yugoslav Republic of;154;MKD;SEU;EU;1;Upper middle income
+Norway;Norway;Norway;162;NOR;NEU;EU;1;High income
+Oman;Oman;Oman;221;OMN;WAS;AS;5;High income
+Pakistan;Pakistan;Pakistan;165;PAK;SAS;AS;6;Lower middle income
+Panama;Panama;Panama;166;PAN;CAM;AM;7;High income
+Papua New Guinea;Papua New Guinea;Papua New Guinea;168;PNG;OCE;OC;2;Lower middle income
+Paraguay;Paraguay;Paraguay;169;PRY;SAM;AM;7;Upper middle income
+Peru;Peru;Peru;170;PER;SAM;AM;7;Upper middle income
+Philippines;Philippines;Philippines;171;PHL;SAS;AS;6;Lower middle income
+Poland;Poland;Poland;173;POL;EEU;EU;1;High income
+Portugal;Portugal;Portugal;174;PRT;SEU;EU;1;High income
+Qatar;Qatar;Qatar;179;QAT;WAS;AS;5;High income
+Republic of Korea;Republic of Korea;Korea, Republic of;117;KOR;EAS;AS;3;High income
+Republic of Moldova;Moldova;Moldova, Republic of;146;MDA;EEU;EU;1;Upper middle income
+Romania;Romania;Romania;183;ROU;EEU;EU;1;High income
+Russian Federation;Russian Federation;Russian Federation;185;RUS;EEU;EU;1;High income
+Rwanda;Rwanda;Rwanda;184;RWA;EAF;AF;4;Low income
+Saint Kitts and Nevis;NaN;Saint Kitts and Nevis;188;KNA;CRB;AM;7;High income
+Saint Lucia;NaN;Saint Lucia;189;LCA;CRB;AM;7;Upper middle income
+Saint Vincent and the Grenadines;NaN;Saint Vincent and the Grenadines;191;VCT;CRB;AM;7;Upper middle income
+Samoa;NaN;Samoa;244;WSM;OCE;OC;2;Lower middle income
+Sao Tome and Principe;NaN;Sao Tome and Principe;193;STP;MAF;AF;4;Lower middle income
+Saudi Arabia;Saudi Arabia;Saudi Arabia;194;SAU;WAS;AS;5;High income
+Senegal;Senegal;Senegal;195;SEN;WAF;AF;4;Lower middle income
+Serbia;Serbia;Serbia;272;SRB;SEU;EU;1;Upper middle income
+Serbia and Montenegro;NaN;Serbia and Montenegro;186;NaN;NaN;NaN;1;NA
+Seychelles;NaN;Seychelles;196;SYC;EAF;AF;4;High income
+Sierra Leone;Sierra Leone;Sierra Leone;197;SLE;WAF;AF;4;Low income
+Slovakia;Slovakia;Slovakia;199;SVK;EEU;EU;1;High income
+Slovenia;Slovenia;Slovenia;198;SVN;SEU;EU;1;High income
+Solomon Islands;Solomon Islands;Solomon Islands;25;SLB;OCE;OC;2;Lower middle income
+Somalia;Somalia;Somalia;201;SOM;EAF;AF;4;Low income
+South Africa;South Africa;South Africa;202;ZAF;SAF;AF;4;Upper middle income
+South Sudan;South Sudan;South Sudan;277;SSD;EAF;AF;4;Low income
+Spain;Spain;Spain;203;ESP;SEU;EU;1;High income
+Sri Lanka;Sri Lanka;Sri Lanka;38;LKA;SAS;AS;6;Lower middle income
+Sudan;Sudan;Sudan;276;SDN;NAF;AF;4;Low income
+Sudan (former);NaN;Sudan (former);206;NaN;NaN;NaN;4;NA
+Suriname;Suriname;Suriname;207;SUR;SAM;AM;7;Upper middle income
+Sweden;Sweden;Sweden;210;SWE;NEU;EU;1;High income
+Switzerland;Switzerland;Switzerland;211;CHE;WEU;EU;1;High income
+Syrian Arab Republic;NaN;Syrian Arab Republic;212;SYR;WAS;AS;5;Low income
+Tajikistan;Tajikistan;Tajikistan;208;TJK;CAS;AS;5;Lower middle income
+Thailand;Thailand;Thailand;216;THA;SAS;AS;6;Upper middle income
+Timor-Leste;Timor-Leste;Timor-Leste;176;TLS;SAS;AS;6;Lower middle income
+Togo;Togo;Togo;217;TGO;WAF;AF;4;Low income
+Trinidad and Tobago;Trinidad and Tobago;Trinidad and Tobago;220;TTO;CRB;AM;7;High income
+Tunisia;Tunisia;Tunisia;222;TUN;NAF;AF;5;Lower middle income
+Türkiye;Turkey;Turkey;223;TUR;WAS;AS;5;Upper middle income
+Turkmenistan;Turkmenistan;Turkmenistan;213;TKM;CAS;AS;5;Upper middle income
+Uganda;Uganda;Uganda;226;UGA;EAF;AF;4;Low income
+Ukraine;Ukraine;Ukraine;230;UKR;EEU;EU;1;Upper middle income
+United Arab Emirates;United Arab Emirates;United Arab Emirates;225;ARE;WAS;AS;5;High income
+United Kingdom of Great Britain and Northern Ireland;United Kingdom;United Kingdom;229;GBR;NEU;EU;1;High income
+United Republic of Tanzania;Tanzania;Tanzania, United Republic of;215;TZA;EAF;AF;4;Lower middle income
+United States of America;United States;United States of America;231;USA;NAM;AM;2;High income
+Uruguay;Uruguay;Uruguay;234;URY;SAM;AM;7;High income
+USSR;NaN;USSR;228;NaN;NaN;NaN;1;NA
+Uzbekistan;Uzbekistan;Uzbekistan;235;UZB;CAS;AS;5;Lower middle income
+Vanuatu;Vanuatu;Vanuatu;155;VUT;OCE;OC;2;Lower middle income
+Venezuela (Bolivarian Republic of);Venezuela;Venezuela, Bolivarian Republic of;236;VEN;SAM;AM;7;Upper middle income
+Viet Nam;Vietnam;Viet Nam;237;VNM;SAS;AS;6;Lower middle income
+Yemen;Yemen;Yemen;249;YEM;WAS;AS;5;Low income
+Yugoslav SFR;NaN;Yugoslav SFR;248;NaN;NaN;NaN;1;NA
+Zambia;Zambia;Zambia;251;ZMB;EAF;AF;4;Lower middle income
+Zimbabwe;Zimbabwe;Zimbabwe;181;ZWE;EAF;AF;4;Lower middle income
